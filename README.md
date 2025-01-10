@@ -8,4 +8,4 @@ With the metric in hand, the spectrum of the Laplacian on these manifolds was co
 of the complex structure. It was noticed that the spectrum crossed at certain values of the complex structure, which indicated an enhanced degeneracy and hence an enhancement in the symmetries of the CY.
 However, all the symmetry had been taken into account, and so the goal of our work was to find the source of this enhanced degeneracy in the spectrum.
 
-In the paper, we give evidence that these crossings are related to special number-theoretic properties that arise at particular values of the complex structure. The examples we focus on are the Fermat type CY manifolds, for dimensions 2,4, and 6.
+In the paper, we give evidence that these crossings are related to special number-theoretic properties that arise at particular values of the complex structure. We use the [cymetric](https://github.com/pythoncymetric/cymetric) package to learn the Ricci-flat metric for Fermat type CY manifolds in dimensions 2,4, and 6.
